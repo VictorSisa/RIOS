@@ -545,3 +545,9 @@ ZeroDivisionError: float division by zero
 2026-03-29 00:27:09,557 - RIOS - INFO - Cleaned categories: 27, vendor-brands: 308
 2026-03-29 00:27:09,557 - RIOS - INFO - ✅ Report generator ready
 2026-03-29 00:27:09,588 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report_final.txt
+2026-03-29 18:16:14,936 - RIOS - INFO - ReportGenerator initialized with 3 items
+2026-03-29 18:16:14,937 - RIOS - INFO - One-pager generated successfully (91 lines)
+2026-03-29 18:16:14,937 - RIOS - INFO - Vendor outreach generated successfully (3 vendors)
+2026-03-29 18:16:14,937 - RIOS - WARNING - ReportGenerator received empty data — reports will be minimal
+2026-03-29 18:16:14,937 - RIOS - INFO - ReportGenerator initialized with 0 items
+2026-03-29 18:16:14,937 - RIOS - INFO - One-pager generated successfully (81 lines)
