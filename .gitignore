@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Secrets & credentials
+credentials.json
+.token.pickle
+*.pickle
+token.json
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs (keep the outputs dir but not individual logs)
+outputs/rios.log
+
+# Temp downloads
+outputs/temp_downloads/
