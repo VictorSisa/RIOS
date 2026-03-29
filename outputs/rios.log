@@ -1,0 +1,547 @@
+2026-03-28 21:14:58,324 - RIOS - INFO - 📱 Creating new Gmail OAuth2 token...
+2026-03-28 21:37:03,124 - RIOS - INFO - ✅ Gmail API authenticated
+2026-03-28 21:37:03,125 - RIOS - INFO - ============================================================
+2026-03-28 21:37:03,125 - RIOS - INFO - 🧠 RIOS - Starting Weekly Report Processing
+2026-03-28 21:37:03,125 - RIOS - INFO - ============================================================
+2026-03-28 21:37:03,125 - RIOS - INFO - 
+📧 Checking Gmail for new reports...
+2026-03-28 21:37:03,301 - RIOS - ERROR - Gmail API error: <HttpError 403 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages?q=from%3Asisav%40aafes.com+subject%3A%22Weekly+Business+Review%22+is%3Aunread&maxResults=10&alt=json returned "Gmail API has not been used in project 891186632846 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=891186632846 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.". Details: "[{'message': 'Gmail API has not been used in project 891186632846 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=891186632846 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.', 'domain': 'usageLimits', 'reason': 'accessNotConfigured', 'extendedHelp': 'https://console.developers.google.com'}]">
+2026-03-28 21:37:03,301 - RIOS - INFO - ✅ No new reports found. RIOS is up to date.
+2026-03-28 21:40:03,746 - RIOS - INFO - ✅ Gmail API authenticated
+2026-03-28 21:40:03,747 - RIOS - INFO - ============================================================
+2026-03-28 21:40:03,747 - RIOS - INFO - 🧠 RIOS - Starting Weekly Report Processing
+2026-03-28 21:40:03,747 - RIOS - INFO - ============================================================
+2026-03-28 21:40:03,747 - RIOS - INFO - 
+📧 Checking Gmail for new reports...
+2026-03-28 21:40:03,995 - RIOS - INFO - ✅ Found 1 new report(s)
+2026-03-28 21:40:03,995 - RIOS - INFO - 
+--- Processing Message 1 ---
+2026-03-28 21:40:04,062 - RIOS - INFO - 📧 From: sisav@aafes.com
+2026-03-28 21:40:04,062 - RIOS - INFO - 📧 Subject: Weekly Business Review
+2026-03-28 21:40:04,063 - RIOS - INFO - 
+📥 Downloading attachments...
+2026-03-28 21:40:05,063 - RIOS - INFO - ✅ Downloaded attachment: outputs/temp_downloads/2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 21:40:05,064 - RIOS - WARNING - ⚠️  No Excel file found in attachments
+2026-03-28 21:40:05,064 - RIOS - INFO - 
+============================================================
+2026-03-28 21:40:05,064 - RIOS - INFO - 🧠 RIOS - Session Complete
+2026-03-28 21:40:05,064 - RIOS - INFO - ============================================================
+2026-03-28 21:47:44,596 - RIOS - INFO - ✅ Gmail API authenticated
+2026-03-28 21:47:44,597 - RIOS - INFO - ============================================================
+2026-03-28 21:47:44,597 - RIOS - INFO - 🧠 RIOS - Starting Weekly Report Processing
+2026-03-28 21:47:44,597 - RIOS - INFO - ============================================================
+2026-03-28 21:47:44,597 - RIOS - INFO - 
+📧 Checking Gmail for new reports...
+2026-03-28 21:47:44,895 - RIOS - INFO - ✅ Found 1 new report(s)
+2026-03-28 21:47:44,896 - RIOS - INFO - 
+--- Processing Message 1 ---
+2026-03-28 21:47:44,989 - RIOS - INFO - 📧 From: sisav@aafes.com
+2026-03-28 21:47:44,989 - RIOS - INFO - 📧 Subject: Weekly Business Review
+2026-03-28 21:47:44,989 - RIOS - INFO - 
+📥 Downloading attachments...
+2026-03-28 21:47:46,279 - RIOS - INFO - ✅ Downloaded attachment: outputs/temp_downloads/2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 21:47:46,280 - RIOS - INFO - 📄 Checking file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm (extension: .xlsm)
+2026-03-28 21:47:46,280 - RIOS - WARNING - ⚠️  No Excel file found in attachments
+2026-03-28 21:47:46,280 - RIOS - INFO - Available files: ['2026 WK 7 Baby Category Report - Template - V6 .xlsm']
+2026-03-28 21:47:46,281 - RIOS - INFO - 
+============================================================
+2026-03-28 21:47:46,281 - RIOS - INFO - 🧠 RIOS - Session Complete
+2026-03-28 21:47:46,281 - RIOS - INFO - ============================================================
+2026-03-28 21:50:37,148 - RIOS - INFO - ✅ Gmail API authenticated
+2026-03-28 21:50:37,149 - RIOS - INFO - ============================================================
+2026-03-28 21:50:37,149 - RIOS - INFO - 🧠 RIOS - Starting Weekly Report Processing
+2026-03-28 21:50:37,149 - RIOS - INFO - ============================================================
+2026-03-28 21:50:37,149 - RIOS - INFO - 
+📧 Checking Gmail for new reports...
+2026-03-28 21:50:37,378 - RIOS - INFO - ✅ Found 1 new report(s)
+2026-03-28 21:50:37,378 - RIOS - INFO - 
+--- Processing Message 1 ---
+2026-03-28 21:50:37,475 - RIOS - INFO - 📧 From: sisav@aafes.com
+2026-03-28 21:50:37,475 - RIOS - INFO - 📧 Subject: Weekly Business Review
+2026-03-28 21:50:37,475 - RIOS - INFO - 
+📥 Downloading attachments...
+2026-03-28 21:50:38,437 - RIOS - INFO - ✅ Downloaded attachment: outputs/temp_downloads/2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 21:50:38,439 - RIOS - INFO - ✅ Found Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 21:50:38,439 - RIOS - INFO - ✅ Using file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 21:50:38,439 - RIOS - INFO - 
+🔍 Analyzing retail data...
+2026-03-28 21:50:38,439 - RIOS - INFO - 📊 Processing file: outputs/temp_downloads/2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 21:50:41,952 - RIOS - INFO - ✅ Analysis complete
+2026-03-28 21:50:41,952 - RIOS - INFO - 
+💾 Saving reports...
+2026-03-28 21:50:41,953 - RIOS - INFO - ✅ Saved one-pager: outputs/RIOS_OnePager_20260328_215041.txt
+2026-03-28 21:50:41,953 - RIOS - INFO - ✅ Saved vendor outreach: outputs/RIOS_VendorOutreach_20260328_215041.txt
+2026-03-28 21:50:41,953 - RIOS - INFO - 
+📤 Sending results to work email...
+2026-03-28 21:50:42,466 - RIOS - INFO - ✅ Email sent to sisav@aafes.com (ID: 19d3780344c6b588)
+2026-03-28 21:50:42,510 - RIOS - ERROR - Could not mark message as read: <HttpError 403 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/19d3773df2dcecf2/modify?alt=json returned "Request had insufficient authentication scopes.". Details: "[{'message': 'Insufficient Permission', 'domain': 'global', 'reason': 'insufficientPermissions'}]">
+2026-03-28 21:50:42,510 - RIOS - INFO - ✅ Complete!
+2026-03-28 21:50:42,510 - RIOS - INFO - 
+============================================================
+2026-03-28 21:50:42,510 - RIOS - INFO - 🧠 RIOS - Session Complete
+2026-03-28 21:50:42,510 - RIOS - INFO - ============================================================
+2026-03-28 22:08:37,520 - RIOS - INFO - ✅ Gmail API authenticated
+2026-03-28 22:08:37,520 - RIOS - INFO - ============================================================
+2026-03-28 22:08:37,520 - RIOS - INFO - 🧠 RIOS - Starting Weekly Report Processing
+2026-03-28 22:08:37,520 - RIOS - INFO - ============================================================
+2026-03-28 22:08:37,521 - RIOS - INFO - 
+📧 Checking Gmail for new reports...
+2026-03-28 22:08:37,736 - RIOS - INFO - ✅ Found 1 new report(s)
+2026-03-28 22:08:37,736 - RIOS - INFO - 
+--- Processing Message 1 ---
+2026-03-28 22:08:37,808 - RIOS - INFO - 📧 From: sisav@aafes.com
+2026-03-28 22:08:37,808 - RIOS - INFO - 📧 Subject: Weekly Business Review
+2026-03-28 22:08:37,808 - RIOS - INFO - 
+📥 Downloading attachments...
+2026-03-28 22:08:38,831 - RIOS - INFO - ✅ Downloaded attachment: outputs/temp_downloads/2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 22:08:38,834 - RIOS - INFO - ✅ Found Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 22:08:38,834 - RIOS - INFO - ✅ Using file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 22:08:38,834 - RIOS - INFO - 
+🔍 Analyzing retail data...
+2026-03-28 22:08:38,834 - RIOS - INFO - 📊 Processing file: outputs/temp_downloads/2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 22:08:39,172 - RIOS - INFO - ✅ Loaded 42 rows from Excel
+2026-03-28 22:08:39,177 - RIOS - INFO - ✅ Extracted 42 items for analysis
+2026-03-28 22:08:39,178 - RIOS - ERROR - Error processing file: float division by zero
+Traceback (most recent call last):
+  File "/Users/vicsisa/Desktop/RIOS/services/data_processor.py", line 39, in analyze
+    report_gen = ReportGenerator(data)
+  File "/Users/vicsisa/Desktop/RIOS/services/report_generator.py", line 17, in __init__
+    self.core_items = self._identify_core_items()
+  File "/Users/vicsisa/Desktop/RIOS/services/report_generator.py", line 33, in _identify_core_items
+    if (cumulative / self.total_sales) >= 0.80:
+ZeroDivisionError: float division by zero
+2026-03-28 22:08:39,182 - RIOS - ERROR - 💥 Error: float division by zero
+Traceback (most recent call last):
+  File "/Users/vicsisa/Desktop/RIOS/main.py", line 76, in run
+    analysis = self.processor.analyze(str(excel_file))
+  File "/Users/vicsisa/Desktop/RIOS/services/data_processor.py", line 39, in analyze
+    report_gen = ReportGenerator(data)
+  File "/Users/vicsisa/Desktop/RIOS/services/report_generator.py", line 17, in __init__
+    self.core_items = self._identify_core_items()
+  File "/Users/vicsisa/Desktop/RIOS/services/report_generator.py", line 33, in _identify_core_items
+    if (cumulative / self.total_sales) >= 0.80:
+ZeroDivisionError: float division by zero
+2026-03-28 22:08:39,183 - RIOS - INFO - 
+============================================================
+2026-03-28 22:08:39,183 - RIOS - INFO - 🧠 RIOS - Session Complete
+2026-03-28 22:08:39,183 - RIOS - INFO - ============================================================
+2026-03-28 23:21:07,012 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:21:07,013 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-28 23:21:07,052 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-28 23:21:07,054 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-28 23:21:07,054 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:21:07,054 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:21:07,055 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:21:07,056 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:21:07,056 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:21:07,059 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-28 23:21:07,239 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:21:07,239 - RIOS - INFO - Extracting vendor summary from: Vendor->Brand - Summary
+2026-03-28 23:21:07,603 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:21:07,604 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:21:07,605 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:21:07,605 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:21:07,605 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:21:07,605 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:21:07,605 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:21:07,605 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:21:07,607 - RIOS - INFO -    ✅ Extracted 448 vendor rows
+2026-03-28 23:21:07,768 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:21:07,769 - RIOS - INFO - Extracting vendor summary from: Brand->Vendor - Summary
+2026-03-28 23:21:08,173 - RIOS - INFO -    Loaded 501 rows, 94 columns
+2026-03-28 23:21:08,173 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-28 23:21:08,173 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-28 23:21:08,173 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:21:08,173 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:21:08,173 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:21:08,173 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:21:08,174 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:21:08,176 - RIOS - INFO -    ✅ Extracted 499 vendor rows
+2026-03-28 23:22:39,736 - RIOS - INFO - Generating report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:22:40,037 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:22:40,037 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-28 23:22:40,076 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-28 23:22:40,077 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-28 23:22:40,077 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:22:40,077 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:22:40,077 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:22:40,077 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:22:40,077 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:22:40,078 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:22:40,082 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-28 23:22:40,254 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:22:40,254 - RIOS - INFO - Extracting vendor summary from: Vendor->Brand - Summary
+2026-03-28 23:22:40,614 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-28 23:22:40,614 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-28 23:22:40,614 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-28 23:22:40,614 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:22:40,614 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:22:40,614 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:22:40,615 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:22:40,617 - RIOS - INFO -    ✅ Extracted 448 vendor rows
+2026-03-28 23:22:40,617 - RIOS - INFO - ✅ Report generator ready
+2026-03-28 23:22:40,630 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report.txt
+2026-03-28 23:26:04,414 - RIOS - INFO - Generating report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:26:04,724 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:26:04,724 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-28 23:26:04,763 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-28 23:26:04,764 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-28 23:26:04,764 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:26:04,764 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:26:04,764 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:26:04,765 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:26:04,766 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:26:04,770 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-28 23:26:04,945 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:26:04,945 - RIOS - INFO - Extracting vendor summary from: Vendor->Brand - Summary
+2026-03-28 23:26:05,307 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-28 23:26:05,307 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-28 23:26:05,307 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:26:05,308 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:26:05,309 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:26:05,309 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:26:05,309 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:26:05,309 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:26:05,310 - RIOS - INFO -    ✅ Extracted 448 vendor rows
+2026-03-28 23:26:05,311 - RIOS - INFO - ✅ Report generator ready
+2026-03-28 23:26:05,326 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report.txt
+2026-03-28 23:32:20,931 - RIOS - INFO - Generating enhanced report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:32:21,245 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:32:21,245 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-28 23:32:21,285 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:32:21,287 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:32:21,288 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:32:21,288 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:32:21,288 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:32:21,288 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:32:21,288 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:32:21,288 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:32:21,292 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-28 23:32:21,467 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:32:21,467 - RIOS - INFO - Extracting vendor summary from: Vendor->Brand - Summary
+2026-03-28 23:32:21,828 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-28 23:32:21,828 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-28 23:32:21,828 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:32:21,829 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:32:21,830 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:32:21,830 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:32:21,830 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:32:21,830 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:32:21,830 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:32:21,832 - RIOS - INFO -    ✅ Extracted 448 vendor rows
+2026-03-28 23:32:21,834 - RIOS - INFO - Cleaned categories: 27, vendors: 308
+2026-03-28 23:32:21,834 - RIOS - INFO - ✅ Report generator ready
+2026-03-28 23:32:21,858 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report_v2.txt
+2026-03-28 23:46:48,687 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-28 23:46:48,688 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-28 23:46:48,727 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-28 23:46:48,728 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-28 23:46:48,728 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-28 23:46:48,728 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-28 23:46:48,728 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-28 23:46:48,728 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-28 23:46:48,729 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-28 23:46:48,733 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-29 00:00:51,274 - RIOS - INFO - Generating final report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:00:51,582 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:00:51,582 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-29 00:00:51,622 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-29 00:00:51,623 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-29 00:00:51,623 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:00:51,623 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:00:51,623 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:00:51,623 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:00:51,623 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:00:51,623 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-29 00:00:51,624 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-29 00:00:51,628 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-29 00:00:51,800 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:00:51,800 - RIOS - INFO - Extracting vendor summary from: Vendor->Brand - Summary
+2026-03-29 00:00:52,163 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-29 00:00:52,163 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-29 00:00:52,163 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-29 00:00:52,163 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:00:52,164 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-29 00:00:52,165 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-29 00:00:52,165 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-29 00:00:52,165 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-29 00:00:52,166 - RIOS - INFO -    ✅ Extracted 448 vendor rows
+2026-03-29 00:00:52,168 - RIOS - INFO - Cleaned categories: 27, vendors: 308
+2026-03-29 00:00:52,169 - RIOS - INFO - ✅ Report generator ready
+2026-03-29 00:00:52,192 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report_final.txt
+2026-03-29 00:07:06,358 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:07:06,358 - RIOS - INFO - Extracting vendor-brand summary from: Vendor->Brand - Summary
+2026-03-29 00:07:06,723 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-29 00:07:06,725 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-29 00:07:06,725 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-29 00:07:06,725 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:07:06,725 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:07:06,726 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:07:06,729 - RIOS - INFO -    ✅ Extracted 448 vendor-brand rows
+2026-03-29 00:09:17,521 - RIOS - INFO - Generating final report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:09:17,831 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:09:17,831 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-29 00:09:17,871 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-29 00:09:17,872 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:09:17,873 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:09:17,874 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:09:17,874 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-29 00:09:17,874 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-29 00:09:17,874 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-29 00:09:17,874 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-29 00:09:17,878 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-29 00:09:18,051 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:09:18,051 - RIOS - INFO - Extracting vendor-brand summary from: Vendor->Brand - Summary
+2026-03-29 00:09:18,413 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-29 00:09:18,413 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-29 00:09:18,413 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-29 00:09:18,413 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:09:18,413 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:09:18,414 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:09:18,416 - RIOS - INFO -    ✅ Extracted 448 vendor-brand rows
+2026-03-29 00:09:18,418 - RIOS - INFO - Cleaned categories: 27, vendor-brands: 308
+2026-03-29 00:09:18,418 - RIOS - INFO - ✅ Report generator ready
+2026-03-29 00:09:18,442 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report_final.txt
+2026-03-29 00:12:55,094 - RIOS - INFO - Generating final report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:12:55,475 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:12:55,475 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-29 00:12:55,515 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-29 00:12:55,517 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-29 00:12:55,517 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:12:55,517 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:12:55,517 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:12:55,517 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:12:55,517 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:12:55,518 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:12:55,518 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:12:55,518 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:12:55,518 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:12:55,518 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:12:55,518 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-29 00:12:55,518 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-29 00:12:55,519 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-29 00:12:55,519 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-29 00:12:55,523 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-29 00:12:55,696 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:12:55,696 - RIOS - INFO - Extracting vendor-brand summary from: Vendor->Brand - Summary
+2026-03-29 00:12:56,055 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:12:56,056 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:12:56,057 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:12:56,057 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:12:56,057 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:12:56,058 - RIOS - INFO -    ✅ Extracted 448 vendor-brand rows
+2026-03-29 00:12:56,060 - RIOS - INFO - Cleaned categories: 27, vendor-brands: 308
+2026-03-29 00:12:56,060 - RIOS - INFO - ✅ Report generator ready
+2026-03-29 00:12:56,086 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report_final.txt
+2026-03-29 00:21:12,335 - RIOS - INFO - Generating final report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:21:12,678 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:21:12,679 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-29 00:21:12,720 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:21:12,722 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:21:12,723 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:21:12,723 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:21:12,723 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:21:12,723 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-29 00:21:12,723 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-29 00:21:12,723 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-29 00:21:12,723 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-29 00:21:12,727 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-29 00:21:12,901 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:21:12,901 - RIOS - INFO - Extracting vendor-brand summary from: Vendor->Brand - Summary
+2026-03-29 00:21:13,262 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-29 00:21:13,262 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-29 00:21:13,262 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-29 00:21:13,262 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:21:13,262 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:21:13,262 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:21:13,262 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:21:13,262 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:21:13,263 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:21:13,263 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:21:13,263 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:21:13,263 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:21:13,263 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:21:13,264 - RIOS - INFO -    ✅ Extracted 448 vendor-brand rows
+2026-03-29 00:21:13,266 - RIOS - INFO - Cleaned categories: 27, vendor-brands: 308
+2026-03-29 00:21:13,266 - RIOS - INFO - ✅ Report generator ready
+2026-03-29 00:21:13,298 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report_final.txt
+2026-03-29 00:27:08,671 - RIOS - INFO - Generating final report from: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:27:08,979 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:27:08,979 - RIOS - INFO - Extracting category summary from: Category - Summary
+2026-03-29 00:27:09,018 - RIOS - INFO -    Loaded 38 rows, 94 columns
+2026-03-29 00:27:09,019 - RIOS - INFO -    ✓ Column B: Unnamed: 1
+2026-03-29 00:27:09,019 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:27:09,019 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column AR: Unnamed: 43
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column AT: Unnamed: 45
+2026-03-29 00:27:09,020 - RIOS - INFO -    ✓ Column BW: Unnamed: 74
+2026-03-29 00:27:09,021 - RIOS - INFO -    ✓ Column BY: Unnamed: 76
+2026-03-29 00:27:09,024 - RIOS - INFO -    ✅ Extracted 28 category rows
+2026-03-29 00:27:09,194 - RIOS - INFO - ✅ Loaded Excel file: 2026 WK 7 Baby Category Report - Template - V6 .xlsm
+2026-03-29 00:27:09,194 - RIOS - INFO - Extracting vendor-brand summary from: Vendor->Brand - Summary
+2026-03-29 00:27:09,553 - RIOS - INFO -    Loaded 450 rows, 94 columns
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column A: Unnamed: 0
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column C: Unnamed: 2
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column D: Unnamed: 3
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column F: Unnamed: 5
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column G: Unnamed: 6
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column I: Unnamed: 8
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column J: Unnamed: 9
+2026-03-29 00:27:09,553 - RIOS - INFO -    ✓ Column L: Unnamed: 11
+2026-03-29 00:27:09,554 - RIOS - INFO -    ✓ Column S: Unnamed: 18
+2026-03-29 00:27:09,554 - RIOS - INFO -    ✓ Column U: Unnamed: 20
+2026-03-29 00:27:09,554 - RIOS - INFO -    ✓ Column X: Unnamed: 23
+2026-03-29 00:27:09,554 - RIOS - INFO -    ✓ Column Z: Unnamed: 25
+2026-03-29 00:27:09,555 - RIOS - INFO -    ✅ Extracted 448 vendor-brand rows
+2026-03-29 00:27:09,557 - RIOS - INFO - Cleaned categories: 27, vendor-brands: 308
+2026-03-29 00:27:09,557 - RIOS - INFO - ✅ Report generator ready
+2026-03-29 00:27:09,588 - RIOS - INFO - ✅ Report saved to: /Users/vicsisa/Desktop/RIOS/outputs/executive_report_final.txt
